@@ -15,3 +15,4 @@ Thumbs.db
 
 # Streamlit
 .streamlit/
+\n# Media files\n*.mp3\n*.mp4
